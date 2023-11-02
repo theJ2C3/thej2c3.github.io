@@ -3,5 +3,21 @@
         <title>Categories - Category - J2C3&#39;s daily chit chat</title>
         <link>https://thej2c3.github.io/categories/</link>
         <description>Categories - Category - J2C3&#39;s daily chit chat</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://thej2c3.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://thej2c3.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Markdown</title>
+    <link>https://thej2c3.github.io/categories/markdown/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://thej2c3.github.io/categories/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Documentation</title>
+    <link>https://thej2c3.github.io/categories/documentation/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>https://thej2c3.github.io/categories/documentation/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
